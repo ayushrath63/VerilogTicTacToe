@@ -1,0 +1,57 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb_isim_beh.exe -prj C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb_beh.prj work.disp_tb work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/x_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/score_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/o_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/grid_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/digits_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/cursor_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/blank_cell_rom.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/vga_sync.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/score_sprite.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/grid_sprite.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/digit_sprite.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/cell_sprite.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/game.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/display.v" into library work
+Analyzing Verilog file "C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 194272 KB
+Fuse CPU Usage: 468 ms
+Compiling module vga_sync_default
+Compiling module grid_rom
+Compiling module grid_sprite(pos_x=200,pos_y=120)
+Compiling module blank_cell_rom
+Compiling module cursor_rom
+Compiling module x_rom
+Compiling module o_rom
+Compiling module cell_sprite(pos_x=200,pos_y=120)
+Compiling module cell_sprite(pos_x=280,pos_y=120)
+Compiling module cell_sprite(pos_x=360,pos_y=120)
+Compiling module cell_sprite(pos_x=200,pos_y=200)
+Compiling module cell_sprite(pos_x=280,pos_y=200)
+Compiling module cell_sprite(pos_x=360,pos_y=200)
+Compiling module cell_sprite(pos_x=200,pos_y=280)
+Compiling module cell_sprite(pos_x=280,pos_y=280)
+Compiling module cell_sprite(pos_x=360,pos_y=280)
+Compiling module score_rom
+Compiling module score_sprite(pos_x=200,pos_y=120...
+Compiling module digits_rom
+Compiling module digit_sprite(pos_x=234,pos_y=120...
+Compiling module digit_sprite(pos_x=234,pos_y=126...
+Compiling module digit_sprite(pos_x=234,pos_y=132...
+Compiling module display
+Compiling module game
+Compiling module disp_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 9 sub-compilation(s) to finish...
+Compiled 26 Verilog Units
+Built simulation executable C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb_isim_beh.exe
+Fuse Memory Usage: 212040 KB
+Fuse CPU Usage: 2108 ms

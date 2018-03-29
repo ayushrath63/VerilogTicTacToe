@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\Projects\CSM152A_Lab4\Lab4_cleaned\top.ncd
+OUTFILE=C:\Xilinx\Projects\CSM152A_Lab4\Lab4_cleaned\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Xilinx\Projects\CSM152A_Lab4\Lab4_cleaned
+LICENSE=WebPack
+USER_INFO=211450851_0_0_351

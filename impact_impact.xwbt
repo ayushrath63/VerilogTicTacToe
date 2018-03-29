@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Xilinx\Projects\CSM152A_Lab4\Lab4\impact.xsl
+OUTFILE=C:\Xilinx\Projects\CSM152A_Lab4\Lab4\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\Xilinx\Projects\CSM152A_Lab4\Lab4
+LICENSE=iMPACT
+USER_INFO=iMPACT

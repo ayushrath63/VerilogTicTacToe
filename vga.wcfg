@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Xilinx/Projects/CSM152A_Lab4/Lab4/disp_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="disp_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/disp_tb/vgaRed" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vgaRed[2:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaRed[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/vgaGreen" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vgaGreen[2:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaGreen[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/vgaBlue" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vgaBlue[1:0]</obj_property>
+      <obj_property name="ObjectShortName">vgaBlue[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/Hsync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Hsync</obj_property>
+      <obj_property name="ObjectShortName">Hsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/Vsync" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Vsync</obj_property>
+      <obj_property name="ObjectShortName">Vsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/f" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">f[31:0]</obj_property>
+      <obj_property name="ObjectShortName">f[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/cur_time" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cur_time[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cur_time[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/uut/grid/x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x[9:0]</obj_property>
+      <obj_property name="ObjectShortName">x[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/uut/grid/y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y[9:0]</obj_property>
+      <obj_property name="ObjectShortName">y[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/uut/vga_/vCount" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vCount[9:0]</obj_property>
+      <obj_property name="ObjectShortName">vCount[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/disp_tb/uut/vga_/hCount" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">hCount[9:0]</obj_property>
+      <obj_property name="ObjectShortName">hCount[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

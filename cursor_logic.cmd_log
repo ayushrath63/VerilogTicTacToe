@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Lab4 -o C:/Xilinx/Projects/CSM152A_Lab4/Lab4/cursor_logic.tfi -lib work C:/Xilinx/Projects/CSM152A_Lab4/Lab4//cursor_logic.v -module cursor_logic -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

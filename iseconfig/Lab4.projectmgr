@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Lab4" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|top.v/display_ - display</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell0 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell1 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell2 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell3 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell4 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell5 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell6 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell7 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/cell8 - cell_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/grid - grid_sprite</ClosedNode>
+         <ClosedNode>/top C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top.v/display_ - display/score_text - score_sprite</ClosedNode>
+         <ClosedNode>/top |home|ise|Lab4|top.v/display_ - display/cell0 - cell_sprite</ClosedNode>
+         <ClosedNode>/top |home|ise|Lab4|top.v/display_ - display/grid - grid_sprite</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>jstk_ - PmodJSTK (C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/PmodJSTK.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c1000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c10000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>jstk_ - PmodJSTK (C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/PmodJSTK.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >5</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000100000000000000000000000000000000000004ce000000040101000100000000000000000000000064ffffffff000000810000000000000004000000a20000000100000000000000240000000100000000000000660000000100000000000003a20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>blank_cell_rom.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000118000000010001000100000000000000000000000064ffffffff000000810000000000000001000001180000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>User Constraints</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>User Constraints</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff000000000000000200000258000001e401000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/cursor_logic_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|cursor_logic_tb.v</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|disp_tb.v</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell0 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell1 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell2 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell3 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell4 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell5 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell6 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell7 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/cell8 - cell_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/grid - grid_sprite</ClosedNode>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v/uut - display/score_text - score_sprite</ClosedNode>
+         <ClosedNode>/game_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|game_tb.v</ClosedNode>
+         <ClosedNode>/game_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|game_tb.v</ClosedNode>
+         <ClosedNode>/speaker_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|speaker_tb.v</ClosedNode>
+         <ClosedNode>/speaker_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|speaker_tb.v</ClosedNode>
+         <ClosedNode>/top_tb C:|Users|152|Desktop|Lab4|top_tb.v</ClosedNode>
+         <ClosedNode>/top_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4_cleaned|top_tb.v</ClosedNode>
+         <ClosedNode>/top_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top_tb.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>disp_tb (C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000122000000020000000000000000000000000200000064ffffffff000000810000000300000002000001220000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>disp_tb (C:/Xilinx/Projects/CSM152A_Lab4/Lab4_cleaned/disp_tb.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v</ClosedNode>
+         <ClosedNode>/top_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top_tb.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000bc000000020000000000000000000000000200000064ffffffff000000810000000300000002000000bc0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001b4000000010000000100000000000000000000000064ffffffff000000810000000000000001000001b40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/disp_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|disp_tb.v</ClosedNode>
+         <ClosedNode>/top_tb C:|Xilinx|Projects|CSM152A_Lab4|Lab4|top_tb.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000bc000000020000000000000000000000000200000064ffffffff000000810000000300000002000000bc0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001b4000000010000000100000000000000000000000064ffffffff000000810000000000000001000001b40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

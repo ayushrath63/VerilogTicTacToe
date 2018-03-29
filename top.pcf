@@ -1,0 +1,49 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Mar 14 15:02:55 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "SS" LOCATE = SITE "T12" LEVEL 1;
+COMP "sp" LOCATE = SITE "K2" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "vgaGreen<0>" LOCATE = SITE "P8" LEVEL 1;
+COMP "vgaGreen<1>" LOCATE = SITE "T6" LEVEL 1;
+COMP "vgaGreen<2>" LOCATE = SITE "V6" LEVEL 1;
+COMP "MISO" LOCATE = SITE "N10" LEVEL 1;
+COMP "SCLK" LOCATE = SITE "P11" LEVEL 1;
+COMP "MOSI" LOCATE = SITE "V12" LEVEL 1;
+COMP "Hsync" LOCATE = SITE "N6" LEVEL 1;
+COMP "Vsync" LOCATE = SITE "P7" LEVEL 1;
+COMP "vgaRed<0>" LOCATE = SITE "U7" LEVEL 1;
+COMP "vgaRed<1>" LOCATE = SITE "V7" LEVEL 1;
+COMP "vgaRed<2>" LOCATE = SITE "N7" LEVEL 1;
+COMP "led<0>" LOCATE = SITE "U16" LEVEL 1;
+COMP "led<1>" LOCATE = SITE "V16" LEVEL 1;
+COMP "vgaBlue<1>" LOCATE = SITE "R7" LEVEL 1;
+COMP "vgaBlue<2>" LOCATE = SITE "T7" LEVEL 1;
+TIMEGRP sys_clk_pin = BEL "Hz5ClkDiv_/CLKOUT" BEL "jstk_/SerialClock/CLKOUT"
+        BEL "Hz5ClkDiv_/clkCount_0" BEL "Hz5ClkDiv_/clkCount_1" BEL
+        "Hz5ClkDiv_/clkCount_2" BEL "Hz5ClkDiv_/clkCount_3" BEL
+        "Hz5ClkDiv_/clkCount_4" BEL "Hz5ClkDiv_/clkCount_5" BEL
+        "Hz5ClkDiv_/clkCount_6" BEL "Hz5ClkDiv_/clkCount_7" BEL
+        "Hz5ClkDiv_/clkCount_8" BEL "Hz5ClkDiv_/clkCount_9" BEL
+        "Hz5ClkDiv_/clkCount_10" BEL "Hz5ClkDiv_/clkCount_11" BEL
+        "Hz5ClkDiv_/clkCount_12" BEL "Hz5ClkDiv_/clkCount_13" BEL
+        "Hz5ClkDiv_/clkCount_14" BEL "Hz5ClkDiv_/clkCount_15" BEL
+        "Hz5ClkDiv_/clkCount_16" BEL "Hz5ClkDiv_/clkCount_17" BEL
+        "Hz5ClkDiv_/clkCount_18" BEL "Hz5ClkDiv_/clkCount_19" BEL
+        "Hz5ClkDiv_/clkCount_20" BEL "Hz5ClkDiv_/clkCount_21" BEL
+        "Hz5ClkDiv_/clkCount_22" BEL "Hz5ClkDiv_/clkCount_23" BEL
+        "jstk_/SerialClock/clkCount_0" BEL "jstk_/SerialClock/clkCount_1" BEL
+        "jstk_/SerialClock/clkCount_2" BEL "jstk_/SerialClock/clkCount_3" BEL
+        "jstk_/SerialClock/clkCount_4" BEL "jstk_/SerialClock/clkCount_5" BEL
+        "jstk_/SerialClock/clkCount_6" BEL "jstk_/SerialClock/clkCount_7" BEL
+        "jstk_/SerialClock/clkCount_8" BEL "jstk_/SerialClock/clkCount_9" BEL
+        "dclk_0" BEL "dclk_1" BEL "cursor_/Xpos_2" BEL "cursor_/Xpos_1" BEL
+        "cursor_/Xpos_0" BEL "cursor_/Ypos_2" BEL "cursor_/Ypos_1" BEL
+        "cursor_/Ypos_0" BEL "cursor_/direction_FSM_FFd2" BEL
+        "cursor_/direction_FSM_FFd3" BEL "cursor_/direction_FSM_FFd1" BEL
+        "clk_BUFGP/BUFG";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 100 MHz HIGH 50%;
+SCHEMATIC END;
+
